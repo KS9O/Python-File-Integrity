@@ -1,6 +1,1 @@
-# Thank you for visiting my portfolio, I'm still in the process of writing up my experience!
-
-## You can check out more resources of mine at [My Repositories](https://github.com/KS9O?tab=repositories)
-- Alongside my Socials
-- [Linkedin](https://www.linkedin.com/in/kyle-sopt/)
-- [TryHackMe](https://tryhackme.com/p/KS90/)
+<img width="1800" alt="Screenshot 2024-02-06 at 7 38 08 PM" src="https://github.com/KS9O/Python-File-Integrity/assets/132106064/a2a13eae-c806-4611-8885-1fedc4aa1bc1">
